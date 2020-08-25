@@ -4,9 +4,12 @@
 ## Contents:
 
 - [Chapter 1 - Bootstrapping your Ruby literacy](./chapter-1)
+- [Chapter 2 - Objects, methods, and local variables](./chapter-2)
 
 ## Extended Contents:
 
 - [Chapter 1 - Bootstrapping your Ruby literacy](./chapter-1)
 	- [c2fio.rb](./chapter-1/c2fio.rb)
 	- [f2cio.rb](./chapter-1/f2cio.rb)
+- [Chapter 2 - Objects, methods, and local variables](./chapter-2)
+	- [ticket.rb](./chapter-2/ticket.rb)
