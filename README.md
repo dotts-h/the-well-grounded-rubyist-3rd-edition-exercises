@@ -13,3 +13,5 @@
 	- [f2cio.rb](./chapter-1/f2cio.rb)
 - [Chapter 2 - Objects, methods, and local variables](./chapter-2)
 	- [ticket.rb](./chapter-2/ticket.rb)
+- [Chapter 3 - Oragnizing objects with classes](./chapter-3)
+	- [ticket.rb](./chapter-3/ticket.rb)
