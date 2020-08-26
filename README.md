@@ -5,6 +5,7 @@
 
 - [Chapter 1 - Bootstrapping your Ruby literacy](./chapter-1)
 - [Chapter 2 - Objects, methods, and local variables](./chapter-2)
+- [Chapter 3 - Organizing objects with classes](./chapter-3)
 
 ## Extended Contents:
 
@@ -13,5 +14,5 @@
 	- [f2cio.rb](./chapter-1/f2cio.rb)
 - [Chapter 2 - Objects, methods, and local variables](./chapter-2)
 	- [ticket.rb](./chapter-2/ticket.rb)
-- [Chapter 3 - Oragnizing objects with classes](./chapter-3)
+- [Chapter 3 - Organizing objects with classes](./chapter-3)
 	- [ticket.rb](./chapter-3/ticket.rb)
