@@ -8,6 +8,7 @@
 - [Chapter 3 - Organizing objects with classes](./chapter-3)
 - [Chapter 4 - Modules and program organization](./chapter-4)
 - [Chapter 5 - The default object (self), scope, and visibility](./chapter-5)
+- [Chapter 6 - Control-flow techniques](./chapter-6)
 
 ## Extended Contents:
 
@@ -22,3 +23,6 @@
 	- [person.rb](./chapter-4/person.rb)
 - [Chapter 5 - The default object (self), scope, and visibility](./chapter-5)
 	- [car.rb](./chapter-5/car.rb)
+- [Chapter 6 - Control-flow techniques](./chapter-6)
+	- [ticket.rb](./chapter-6/ticket.rb)
+	- [my_times.rb](./chapter-6/my_times.rb)
