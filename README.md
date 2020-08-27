@@ -7,6 +7,7 @@
 - [Chapter 2 - Objects, methods, and local variables](./chapter-2)
 - [Chapter 3 - Organizing objects with classes](./chapter-3)
 - [Chapter 4 - Modules and program organization](./chapter-4)
+- [Chapter 5 - The default object (self), scope, and visibility](./chapter-5)
 
 ## Extended Contents:
 
@@ -19,3 +20,5 @@
 	- [ticket.rb](./chapter-3/ticket.rb)
 - [Chapter 4 - Modules and program organization](./chapter-4)
 	- [person.rb](./chapter-4/person.rb)
+- [Chapter 5 - The default object (self), scope, and visibility](./chapter-5)
+	- [car.rb](./chapter-5/car.rb)
