@@ -11,7 +11,7 @@
 	- [Chapter 5 - The default object (self), scope, and visibility](./chapter-5)
 	- [Chapter 6 - Control-flow techniques](./chapter-6)
 - **Part 2. Built-in classes and modules**
-	- Built-in essentials
+	- Chapter 7 - Built-in essentials
 
 ## Extended Contents:
 
@@ -31,4 +31,4 @@
 		- [ticket.rb](./chapter-6/ticket.rb)
 		- [my_times.rb](./chapter-6/my_times.rb)
 - **Part 2. Built-in classes and modules**
-	- Built-in essentials
+	- Chapter 7 - Built-in essentials
