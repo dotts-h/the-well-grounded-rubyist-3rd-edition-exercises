@@ -12,6 +12,7 @@
 	- [Chapter 6 - Control-flow techniques](./chapter-6)
 - **Part 2. Built-in classes and modules**
 	- Chapter 7 - Built-in essentials
+	- Chapter 8 - Strings, symbols, and other scalar objects
 
 ## Extended Contents:
 
@@ -32,3 +33,4 @@
 		- [my_times.rb](./chapter-6/my_times.rb)
 - **Part 2. Built-in classes and modules**
 	- Chapter 7 - Built-in essentials
+	- Chapter 8 - Strings, symbols, and other scalar objects
