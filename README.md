@@ -11,8 +11,8 @@
 	- [Chapter 5 - The default object (self), scope, and visibility](./chapter-5)
 	- [Chapter 6 - Control-flow techniques](./chapter-6)
 - **Part 2. Built-in classes and modules**
-	- Chapter 7 - Built-in essentials
-	- Chapter 8 - Strings, symbols, and other scalar objects
+	- Chapter 7 - Built-in essentials - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-7---built-in-essentials)
+	- Chapter 8 - Strings, symbols, and other scalar objects - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-8---strings-symbols-and-other-scalar-objects)
 
 ## Extended Contents:
 
@@ -32,5 +32,5 @@
 		- [ticket.rb](./chapter-6/ticket.rb)
 		- [my_times.rb](./chapter-6/my_times.rb)
 - **Part 2. Built-in classes and modules**
-	- Chapter 7 - Built-in essentials
-	- Chapter 8 - Strings, symbols, and other scalar objects
+	- Chapter 7 - Built-in essentials - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-7---built-in-essentials)
+	- Chapter 8 - Strings, symbols, and other scalar objects - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-8---strings-symbols-and-other-scalar-objects)
