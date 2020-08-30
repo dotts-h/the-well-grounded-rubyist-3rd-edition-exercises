@@ -14,6 +14,7 @@
 	- Chapter 7 - Built-in essentials - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-7---built-in-essentials)
 	- Chapter 8 - Strings, symbols, and other scalar objects - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-8---strings-symbols-and-other-scalar-objects)
 	- Chapter 9 - Collection and container objects - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-9---collection-and-container-objects)
+	- Chapter 10 - Collections central: Enumerable and Enumerator - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-10---collection-and-)
 
 ## Extended Contents:
 
@@ -36,3 +37,4 @@
 	- Chapter 7 - Built-in essentials - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-7---built-in-essentials)
 	- Chapter 8 - Strings, symbols, and other scalar objects - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-8---strings-symbols-and-other-scalar-objects)
 	- Chapter 9 - Collection and container objects - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-9---collection-and-container-objects)
+	- Chapter 10 - Collections central: Enumerable and Enumerator - [Notes](https://gist.github.com/dotts-h/523a3a631e28e686f9e21845ccb2c776#chapter-10---collection-and-)
